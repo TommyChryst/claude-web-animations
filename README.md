@@ -1,6 +1,6 @@
-# claude-web-animations
+# claude-web-design
 
-Two Claude Code skills for adding scroll-driven and looping video animations to websites — built from real production work on a luxury watch brand site.
+A collection of Claude Code skills for building high-quality web design effects — built from real production work on a luxury watch brand site.
 
 ---
 
@@ -76,8 +76,9 @@ Both skills were developed while building a luxury watch brand website. The tech
 ## File structure
 
 ```
-claude-web-animations/
+claude-web-design/
 ├── README.md
+├── CLAUDE.md                        ← web design operating manual
 ├── LICENSE
 ├── scroll-reveal-video/
 │   ├── SKILL.md                     ← Claude skill instructions
